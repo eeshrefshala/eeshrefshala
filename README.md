@@ -7,7 +7,7 @@ Production infrastructure, containers, CI/CD, and the reliability work that keep
 **📍 Prishtina, Kosovo** &nbsp;·&nbsp; **🕐 CET / EET** &nbsp;·&nbsp; 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshref-shala-a83262237/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eshrefshala42@gmail.com)
 
 ---
 
